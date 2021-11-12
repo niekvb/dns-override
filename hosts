@@ -35,7 +35,13 @@
 0.0.0.0 whatsapp.com
 0.0.0.0 *.whatsapp.com
 
+# NPO Ster domains
+0.0.0.0 *.cdn.ster.nl
+0.0.0.0 cdn.ster.nl
+
 # Other domains
+0.0.0.0 *.adconfigproxy.azurewebsites.net
+0.0.0.0 adconfigproxy.azurewebsites.net
 0.0.0.0 *.giga.com
 0.0.0.0 giga.com
 0.0.0.0 *.newrelic.com
