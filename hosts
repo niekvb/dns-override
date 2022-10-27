@@ -54,3 +54,5 @@
 0.0.0.0 ingest.sentry.io
 0.0.0.0 *.ingestion.smartocto.com
 0.0.0.0 ingestion.smartocto.com
+0.0.0.0 *.tns-nipo.com
+0.0.0.0 tns-nipo.com
