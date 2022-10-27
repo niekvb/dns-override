@@ -36,6 +36,8 @@
 0.0.0.0 *.whatsapp.com
 
 # NPO Ster domains
+0.0.0.0 *.adcdn.ster.nl
+0.0.0.0 adcdn.ster.nl
 0.0.0.0 *.cdn.ster.nl
 0.0.0.0 cdn.ster.nl
 
@@ -50,6 +52,8 @@
 0.0.0.0 giga.com
 0.0.0.0 *.newrelic.com
 0.0.0.0 newrelic.com
+0.0.0.0 *.adserving.optoutadvertising.com
+0.0.0.0 adserving.optoutadvertising.com
 0.0.0.0 *.ingest.sentry.io
 0.0.0.0 ingest.sentry.io
 0.0.0.0 *.ingestion.smartocto.com
