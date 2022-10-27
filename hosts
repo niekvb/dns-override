@@ -42,11 +42,13 @@
 # Other domains
 0.0.0.0 *.adconfigproxy.azurewebsites.net
 0.0.0.0 adconfigproxy.azurewebsites.net
+0.0.0.0 *.chartbeat.com
+0.0.0.0 chartbeat.com
 0.0.0.0 *.ingestion.contentinsights.com
 0.0.0.0 ingestion.contentinsights.com
 0.0.0.0 *.giga.com
 0.0.0.0 giga.com
 0.0.0.0 *.newrelic.com
 0.0.0.0 newrelic.com
-0.0.0.0 *.chartbeat.com
-0.0.0.0 chartbeat.com
+0.0.0.0 *.ingest.sentry.io
+0.0.0.0 ingest.sentry.io
