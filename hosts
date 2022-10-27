@@ -52,3 +52,5 @@
 0.0.0.0 newrelic.com
 0.0.0.0 *.ingest.sentry.io
 0.0.0.0 ingest.sentry.io
+0.0.0.0 *.ingestion.smartocto.com
+0.0.0.0 ingestion.smartocto.com
