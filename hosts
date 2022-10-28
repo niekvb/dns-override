@@ -70,6 +70,8 @@
 0.0.0.0 justpremium.com
 0.0.0.0 *.newrelic.com
 0.0.0.0 newrelic.com
+0.0.0.0 *.nextday.media
+0.0.0.0 nextday.media
 0.0.0.0 *.optoutadvertising.com
 0.0.0.0 optoutadvertising.com
 0.0.0.0 *.pubmatic.com
