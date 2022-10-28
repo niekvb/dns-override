@@ -60,6 +60,8 @@
 0.0.0.0 criteo.com
 0.0.0.0 *.crwdcntrl.net
 0.0.0.0 crwdcntrl.net
+0.0.0.0 *.googlesyndication.com
+0.0.0.0 googlesyndication.com
 0.0.0.0 *.giga.com
 0.0.0.0 giga.com
 0.0.0.0 *.id5-sync.com
@@ -72,6 +74,8 @@
 0.0.0.0 optoutadvertising.com
 0.0.0.0 *.pubmatic.com
 0.0.0.0 pubmatic.com
+0.0.0.0 *.quantcast.com
+0.0.0.0 quantcast.com
 0.0.0.0 *.rubiconproject.com
 0.0.0.0 rubiconproject.com
 0.0.0.0 *.sentry.io
