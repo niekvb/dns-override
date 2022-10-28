@@ -44,6 +44,8 @@
 # Blocked subdomains
 0.0.0.0 *.adconfigproxy.azurewebsites.net
 0.0.0.0 adconfigproxy.azurewebsites.net
+0.0.0.0 *.analytics.enovation.io
+0.0.0.0 analytics.enovation.io
 
 # Other domains (fully blocked)
 0.0.0.0 *.360yield.com
