@@ -41,7 +41,7 @@
 0.0.0.0 *.cdn.ster.nl
 0.0.0.0 cdn.ster.nl
 
-# Other domains
+# Blocked subdomains
 0.0.0.0 *.adconfigproxy.azurewebsites.net
 0.0.0.0 adconfigproxy.azurewebsites.net
 
