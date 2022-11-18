@@ -84,8 +84,8 @@
 0.0.0.0 msn.com
 0.0.0.0 *.nsatc.net
 0.0.0.0 nsatc.net
-0.0.0.0 *.trafficmanager.net
-0.0.0.0 trafficmanager.net
+# 0.0.0.0 *.trafficmanager.net
+# 0.0.0.0 trafficmanager.net
 0.0.0.0 *.v0cdn.net
 0.0.0.0 v0cdn.net
 
