@@ -91,6 +91,12 @@
 0.0.0.0 *.cdn.ster.nl
 0.0.0.0 cdn.ster.nl
 
+# Samsung domains
+0.0.0.0 *.shealth-analytics-api.samsunghealth.com
+0.0.0.0 shealth-analytics-api.samsunghealth.com
+0.0.0.0 *.insight.samsunghealth.com
+0.0.0.0 insight.samsunghealth.com
+
 # Blocked subdomains
 0.0.0.0 *.adconfigproxy.azurewebsites.net
 0.0.0.0 adconfigproxy.azurewebsites.net
